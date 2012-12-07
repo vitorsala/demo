@@ -5,6 +5,7 @@ public class Teste {
 		String s = "Sou uma string legal!";
 		
 		System.out.println(s);
+		System.out.println("aaaaa");
 	}
 
 }
