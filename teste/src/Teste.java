@@ -5,7 +5,7 @@ public class Teste {
 		String s = "Eu não sou uma string tão legal assim...  :(";
 		
 		System.out.println(s);
-		System.out.println("aaaaa");
+		System.out.println("fazendo uma modificação bombástica!");
 	}
 
 }
