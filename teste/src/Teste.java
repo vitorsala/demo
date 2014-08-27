@@ -6,6 +6,7 @@ public class Teste {
 		
 		System.out.println(s);
 		System.out.println("fazendo uma modificação bombástica!");
+		System.out.println("fazendo uma outra modificação bombástica!");
 	}
 
 }
